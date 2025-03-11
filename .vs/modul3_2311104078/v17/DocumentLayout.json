@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F6F4D268-08CC-4FB4-BB95-1C052C1B958E}|modul3_2311104078\\modul3_2311104078.csproj|solutionrelative:modul3_2311104078\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F6F4D268-08CC-4FB4-BB95-1C052C1B958E}|modul3_2311104078\\modul3_2311104078.csproj|c:\\users\\naura\\documents\\kuliah\\semester 4\\konstruksi perangkat lunak\\modul 4\\modul3_2311104078\\modul3_2311104078\\posisikaraktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F4D268-08CC-4FB4-BB95-1C052C1B958E}|modul3_2311104078\\modul3_2311104078.csproj|solutionrelative:modul3_2311104078\\posisikaraktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6F4D268-08CC-4FB4-BB95-1C052C1B958E}|modul3_2311104078\\modul3_2311104078.csproj|c:\\users\\naura\\documents\\kuliah\\semester 4\\konstruksi perangkat lunak\\modul 4\\modul3_2311104078\\modul3_2311104078\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6F4D268-08CC-4FB4-BB95-1C052C1B958E}|modul3_2311104078\\modul3_2311104078.csproj|solutionrelative:modul3_2311104078\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -21,12 +25,21 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PosisiKarakterGame.cs",
+              "DocumentMoniker": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 4\\modul3_2311104078\\modul3_2311104078\\PosisiKarakterGame.cs",
+              "RelativeDocumentMoniker": "modul3_2311104078\\PosisiKarakterGame.cs",
+              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 4\\modul3_2311104078\\modul3_2311104078\\PosisiKarakterGame.cs",
+              "RelativeToolTip": "modul3_2311104078\\PosisiKarakterGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:04:37.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "KodeBuah.cs",
               "DocumentMoniker": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 4\\modul3_2311104078\\modul3_2311104078\\KodeBuah.cs",
               "RelativeDocumentMoniker": "modul3_2311104078\\KodeBuah.cs",
@@ -34,8 +47,7 @@
               "RelativeToolTip": "modul3_2311104078\\KodeBuah.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T01:54:57.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T01:54:57.265Z"
             },
             {
               "$type": "Document",
@@ -45,10 +57,14 @@
               "RelativeDocumentMoniker": "modul3_2311104078\\Program.cs",
               "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 4\\modul3_2311104078\\modul3_2311104078\\Program.cs",
               "RelativeToolTip": "modul3_2311104078\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T01:43:42.947Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
