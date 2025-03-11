@@ -1,0 +1,15 @@
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\bin\Debug\net8.0\modul3_2311104078.exe
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\bin\Debug\net8.0\modul3_2311104078.deps.json
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\bin\Debug\net8.0\modul3_2311104078.runtimeconfig.json
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\bin\Debug\net8.0\modul3_2311104078.dll
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\bin\Debug\net8.0\modul3_2311104078.pdb
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\obj\Debug\net8.0\modul3_2311104078.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\obj\Debug\net8.0\modul3_2311104078.AssemblyInfoInputs.cache
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\obj\Debug\net8.0\modul3_2311104078.AssemblyInfo.cs
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\obj\Debug\net8.0\modul3_2311104078.csproj.CoreCompileInputs.cache
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\obj\Debug\net8.0\modul3_2311104078.sourcelink.json
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\obj\Debug\net8.0\modul3_2311104078.dll
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\obj\Debug\net8.0\refint\modul3_2311104078.dll
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\obj\Debug\net8.0\modul3_2311104078.pdb
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\obj\Debug\net8.0\modul3_2311104078.genruntimeconfig.cache
+C:\Users\Naura\Documents\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\MODUL 4\modul3_2311104078\modul3_2311104078\obj\Debug\net8.0\ref\modul3_2311104078.dll
